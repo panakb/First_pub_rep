@@ -2,4 +2,8 @@ Test2
 original
 blba poznamka
 blba poznamka smazana
+
 editace v github
+
+
+rebase test commit 2
