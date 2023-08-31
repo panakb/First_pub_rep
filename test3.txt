@@ -1,1 +1,2 @@
 Adding new functionality 3.
+rebase master change
